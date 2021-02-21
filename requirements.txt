@@ -35,7 +35,7 @@ conda-build==3.18.11
 conda-package-handling==1.7.0
 conda-verify==3.4.2
 contextlib2==0.6.0.post1
-cryptography==3.2
+cryptography==3.3.2
 cycler==0.10.0
 Cython @ file:///tmp/build/80754af9/cython_1594831566883/work
 cytoolz==0.10.1
