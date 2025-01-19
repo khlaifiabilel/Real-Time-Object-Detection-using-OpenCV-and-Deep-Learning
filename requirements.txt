@@ -214,7 +214,7 @@ traitlets==4.3.3
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1592847887441/work
 ujson==5.4.0
 unicodecsv==0.14.1
-urllib3==1.25.9
+urllib3==1.26.5
 watchdog @ file:///tmp/build/80754af9/watchdog_1593447344699/work
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
